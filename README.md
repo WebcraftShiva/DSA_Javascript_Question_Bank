@@ -1,4 +1,4 @@
-# JavaScript Practice Questions
+# JavaScript Practice Questions DSA
 
 This repository contains a comprehensive set of JavaScript practice problems designed to enhance problem-solving skills in various areas such as Conditional Statements & Loops, Functions, Strings, Arrays, and Objects. These questions are ideal for both beginners and experienced developers, covering common scenarios often encountered in coding interviews and real-world projects.
 
